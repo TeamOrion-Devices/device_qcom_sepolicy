@@ -6,4 +6,4 @@ BOARD_SEPOLICY_DIRS := \
        device/qcom/sepolicy/test \
        device/qcom/sepolicy/$(TARGET_BOARD_PLATFORM)
 
--include vendor/aospb/sepolicy/qcom/sepolicy.mk
+-include vendor/orion/sepolicy/qcom/sepolicy.mk
